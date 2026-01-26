@@ -71,16 +71,6 @@ This repository contains a **data analytics project** that evaluates the impact 
 This README is intentionally concise. Please refer to the **Project Report file** for detailed analysis, screenshots, and conclusions.
 
 ---
-![image alt](https://github.com/deeproy2007/Ai_Adoption_Analysis/blob/main/image/Screenshot%20(62).png?raw=true)
-
-
-
-
-
-
-
-
-
 ## Author
 
 **Deep Roy**
