@@ -74,4 +74,4 @@ This README is intentionally concise. Please refer to the **Project Report file*
 ## Author
 
 **Deep Roy**
-Data Analyst | SQL | Power BI | Python
+**Data Analyst**
